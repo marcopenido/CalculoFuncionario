@@ -17,3 +17,10 @@ C:\Users\MarcoAntonio\Desktop\Lista3\ConsoleApplication17\obj\Debug\ConsoleAppli
 C:\Users\MarcoAntonio\Desktop\Lista3\ConsoleApplication17\obj\Debug\ConsoleApplication17.csproj.CoreCompileInputs.cache
 C:\Users\MarcoAntonio\Desktop\Lista3\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
 C:\Users\MarcoAntonio\Desktop\Lista3\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojAssemblyReference.cache
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\obj\Debug\ConsoleApplication17.csproj.CoreCompileInputs.cache
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\MarcoAntonio\Desktop\CalculoFuncionario\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
